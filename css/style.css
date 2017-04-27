@@ -1,0 +1,51 @@
+img {
+	width: 100%;
+}
+.pp {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 5px solid white;
+	margin-top: 150px;
+	margin-bottom: 40px;
+}
+.title {
+	color: white;
+	font-family: 'Eagle Lake', cursive;
+}
+.stitle {
+	color: white;
+	font-family: 'Eagle Lake', cursive;
+}
+.last-item {
+	padding-bottom: 40px;
+}
+.fondo {
+	height: 700px;
+	background-image: url("https://static.pexels.com/photos/165818/pexels-photo-165818.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+}
+
+span {
+	padding: 10px;
+}
+.travel li {
+	padding: 20px;
+	font-size: 20px;
+}
+.grey {
+	color: #c0c0c0;
+}
+.section-title {
+	padding: 30px;
+}
+footer {
+	padding: 10px;
+}
+.blanco {
+	color: white;
+}
