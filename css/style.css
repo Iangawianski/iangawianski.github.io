@@ -30,6 +30,15 @@ img {
 	background-color: black;
 }
 
+.fondo1 {
+	background-image: url("https://static.pexels.com/photos/165818/pexels-photo-165818.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+}
+
 span {
 	padding: 10px;
 }
@@ -41,11 +50,17 @@ span {
 	color: #c0c0c0;
 }
 .section-title {
-	padding: 30px;
+	padding: 20px;
 }
 footer {
 	padding: 10px;
 }
 .blanco {
 	color: white;
+}
+.pad {
+	padding-bottom: 50px;
+}
+.section {
+	padding: 100px 0;
 }
