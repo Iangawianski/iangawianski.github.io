@@ -52,8 +52,11 @@ span {
 .section-title {
 	padding: 20px;
 }
-footer {
+.icon {
 	padding: 10px;
+}
+footer {
+	margin: 10px;
 }
 .blanco {
 	color: white;
@@ -63,4 +66,8 @@ footer {
 }
 .section {
 	padding: 100px 0;
+}
+.form {
+	background: grey;
+	padding: 5px;
 }
