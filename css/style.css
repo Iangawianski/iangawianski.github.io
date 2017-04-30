@@ -65,7 +65,10 @@ footer {
 	padding-bottom: 50px;
 }
 .section {
-	padding: 100px 0;
+	padding: 70px 0;
+}
+.section img {
+	padding: 10px;
 }
 .form {
 	background: grey;
