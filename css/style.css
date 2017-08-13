@@ -22,7 +22,6 @@ img {
 }
 .fondo {
 	height: 700px;
-	background-image: url("https://static.pexels.com/photos/165818/pexels-photo-165818.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -31,7 +30,6 @@ img {
 }
 
 .fondo1 {
-	background-image: url("https://static.pexels.com/photos/165818/pexels-photo-165818.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
