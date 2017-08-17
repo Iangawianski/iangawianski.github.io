@@ -1,0 +1,152 @@
+img {
+	width: 100%;
+}
+a {
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+}
+.pp {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	/*border: 5px solid white;*/
+	margin-top: 230px;
+	margin-bottom: 40px;
+	margin-right: 30px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+.title {
+	color: white;
+	font-family: 'Eagle Lake', cursive;
+}
+
+.bio {
+	margin-top: 230px;
+}
+.stitle {
+	color: white;
+	font-family: 'Eagle Lake', cursive;
+}
+.last-item {
+	padding-bottom: 40px;
+}
+.fondo {
+	height: 745px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+}
+
+.fondo1 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+}
+
+.project1 {
+	border-radius: 10px;
+	font-family: 'Vidaloka', serif;
+	color: transparent;
+	width: 530px;
+	height: 350px;
+	padding-top: 80px;
+	background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+	background-size: cover;
+}
+
+.project1:hover {
+	border-radius: 10px;
+	font-family: 'Vidaloka', serif;
+	color: black;
+	width: 530px;
+	height: 350px;
+	padding-top: 80px;
+	background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+	background-size: cover;
+	cursor: pointer;
+}
+
+.project2 {
+	border-radius: 10px;
+	font-family: 'Vidaloka', serif;
+	color: transparent;
+	width: 350px;
+	height: 350px;
+	padding-top: 80px;
+	margin-left: 150px;
+	background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+	/*background-size: cover;*/
+}
+
+.project2:hover {
+	border-radius: 10px;
+	font-family: 'Vidaloka', serif;
+	color: black;
+	width: 350px;
+	height: 350px;
+	padding-top: 80px;
+	margin-left: 150px;
+	background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+    /*background-attachment: fixed;*/
+	/*background-size: cover;*/
+	cursor: pointer;
+}
+
+.project1 h2, .project2 h2 {
+	font-size: 50px;
+
+}
+
+span {
+	padding: 10px;
+}
+.travel li {
+	padding: 20px;
+	font-size: 20px;
+}
+.grey {
+	color: #c0c0c0;
+}
+.section-title {
+	padding: 20px;
+}
+.icon {
+	padding: 10px;
+}
+footer {
+	margin: 10px;
+}
+.blanco {
+	color: white;
+}
+.pad {
+	padding-bottom: 50px;
+}
+.section {
+	padding: 70px 0;
+}
+.section img {
+	padding: 10px;
+}
+.form {
+	background: grey;
+	padding: 5px;
+}
