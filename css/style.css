@@ -57,60 +57,21 @@ h1 {
 	border-radius: 10px;
 	font-family: 'Vidaloka', serif;
 	color: transparent;
-	width: 530px;
-	height: 350px;
+	max-width: 530px;
+	max-height: 350px;
 	padding-top: 80px;
 	background-size: 100%;
     background-repeat: no-repeat;
-    /*background-attachment: fixed;*/
 	background-size: cover;
 }
 
 .project1:hover {
-	border-radius: 10px;
-	font-family: 'Vidaloka', serif;
 	color: black;
-	width: 530px;
-	height: 350px;
-	padding-top: 80px;
-	background-size: 100%;
-    background-repeat: no-repeat;
-    /*background-attachment: fixed;*/
-	background-size: cover;
 	cursor: pointer;
 }
 
-.project2 {
-	border-radius: 10px;
-	font-family: 'Vidaloka', serif;
-	color: transparent;
-	width: 350px;
-	height: 350px;
-	padding-top: 80px;
-	margin-left: 150px;
-	background-size: 100%;
-    background-repeat: no-repeat;
-    /*background-attachment: fixed;*/
-	/*background-size: cover;*/
-}
 
-.project2:hover {
-	border-radius: 10px;
-	font-family: 'Vidaloka', serif;
-	color: black;
-	width: 350px;
-	height: 350px;
-	padding-top: 80px;
-	margin-left: 150px;
-	background-size: 100%;
-    background-repeat: no-repeat;
-    background-color: white;
-    /*background-attachment: fixed;*/
-	/*background-size: cover;*/
-	cursor: pointer;
-}
-
-.project1 h2, .project2 h2 {
+.project1 h2 {
 	font-size: 50px;
 
 }
@@ -149,4 +110,13 @@ footer {
 .form {
 	background: grey;
 	padding: 5px;
+}
+
+@media (max-width: 993px) {
+	.divpp {
+		display: none;
+	}
+	.bio {
+		text-align: center;
+	}
 }
