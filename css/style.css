@@ -58,7 +58,6 @@ h1 {
 	font-family: 'Vidaloka', serif;
 	color: transparent;
 	max-width: 530px;
-	max-height: 350px;
 	padding-top: 80px;
 	background-size: 100%;
     background-repeat: no-repeat;
@@ -68,6 +67,8 @@ h1 {
 .project1:hover {
 	color: black;
 	cursor: pointer;
+	-webkit-transform: scale(1.1);
+    transform: scale(1.1)
 }
 
 
@@ -120,3 +121,4 @@ footer {
 		text-align: center;
 	}
 }
+
