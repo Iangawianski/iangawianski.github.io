@@ -55,13 +55,15 @@ h1 {
 
 .project1 {
 	border-radius: 10px;
-	font-family: 'Vidaloka', serif;
+	font-family: 'Eagle Lake', cursive;
+	font-weight: 1000px;
 	color: transparent;
 	max-width: 530px;
 	padding-top: 80px;
 	background-size: 100%;
     background-repeat: no-repeat;
 	background-size: cover;
+	margin-bottom: 80px;
 }
 
 .project1:hover {
@@ -70,7 +72,6 @@ h1 {
 	-webkit-transform: scale(1.1);
     transform: scale(1.1)
 }
-
 
 .project1 h2 {
 	font-size: 50px;
